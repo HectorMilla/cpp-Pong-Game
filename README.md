@@ -25,7 +25,7 @@ To run the **Pong Game**, you'll need to set up the following:
    Clone this repository to your local machine using the following command:
    ```bash
    git clone https://github.com/HectorMilla/cpp-Pong-Game.git
-
+```
 3. Build and Run the Project
 Open the project in Visual Studio (Windows) or your preferred IDE.
 Set up the project to link against the SFML libraries (see SFML setup guide for more details).
